@@ -1,4 +1,4 @@
-public interface test2_print_9_9_mul_table {
+public class test2_print_9_9_mul_table {
     public static void main(String[] args) {
         for(int i = 1; i < 10; i++){
             for(int j = 1; j <= i; j++){
