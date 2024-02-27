@@ -1,3 +1,5 @@
+package com.example.chapter2_procedure_oriented;
+
 public class exercise_02_variable_and_const_value {
     public static void main(String[] args) {
         int a;

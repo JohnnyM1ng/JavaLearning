@@ -1,5 +1,5 @@
-package exercise_02_create_and_use_method;
-import exercise_01_class.Person;
+package com.example.chapter3_object_oriented.ex_02_create_and_use_method;
+import com.example.chapter3_object_oriented.ex_01_class.Person;
 public class Method {
     public static void main(String[] args) {
         Person p = new Person();

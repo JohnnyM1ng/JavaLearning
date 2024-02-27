@@ -1,4 +1,4 @@
-package exercise_01_class;
+package com.example.chapter3_object_oriented.ex_01_class;
 
 public class ClassTest {
     public static void main(String[] args) {

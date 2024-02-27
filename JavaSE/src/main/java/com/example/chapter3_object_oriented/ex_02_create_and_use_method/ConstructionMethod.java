@@ -1,6 +1,6 @@
-package exercise_02_create_and_use_method;
+package com.example.chapter3_object_oriented.ex_02_create_and_use_method;
 
-import exercise_01_class.Person;
+import com.example.chapter3_object_oriented.ex_01_class.Person;
 
 public class ConstructionMethod {
     public static void main(String[] args) {

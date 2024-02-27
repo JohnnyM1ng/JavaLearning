@@ -1,3 +1,5 @@
+package com.example.chapter2_procedure_oriented;
+
 public class exercise_06_loop {
     public static void main(String[] args) {
         int i = 0;   //在外面创建变量i，这样全部范围内都可以使用了

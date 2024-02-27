@@ -1,3 +1,5 @@
+package com.example.chapter2_procedure_oriented;
+
 public class excerise_05_operator {
     public static void main(String[] args) {
         int b;

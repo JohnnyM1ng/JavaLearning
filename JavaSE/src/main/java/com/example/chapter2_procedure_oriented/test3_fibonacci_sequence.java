@@ -1,3 +1,5 @@
+package com.example.chapter2_procedure_oriented;
+
 public class test3_fibonacci_sequence {
     public static void main(String[] args) {
         int a = 5;

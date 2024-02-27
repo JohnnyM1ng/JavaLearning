@@ -1,11 +1,10 @@
-package exercise_01_class;
-
-import java.security.PublicKey;
+package com.example.chapter3_object_oriented.ex_01_class;
 
 public class Person {
     public String name;
     public int age;
     public String sex;
+    public static String info;
 
     public Person(String name, int age, String sex){
         this.name = name;
