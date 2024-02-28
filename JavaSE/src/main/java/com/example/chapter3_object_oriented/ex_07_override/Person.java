@@ -19,6 +19,13 @@ public class Person {
         }
         return true;
     }
+//    @Override
+//    public String toString(){
+//        return "Person{" +
+//                "name= " + this.name +
+//                "age= " + this.age + "\n" +
+//                "sex= " + this.sex + "\n";
+//    }
     protected Person(String name, int age, String sex){
         this.name = name;
         this.age = age;

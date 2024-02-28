@@ -7,5 +7,7 @@ public class Main {
         Person p1 = new Person("Jay", 25, "male");
         Person p2 = new Person("Mike", 14, "male");
         System.out.println(p1.equals(p2));
+        System.out.println(p1.name.toString());
+        System.out.println(p1.toString());
     }
 }
