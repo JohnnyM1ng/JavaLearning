@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaSE/chapter2_procedure_oriented" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSE/chapter3_object_oriented" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSE/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaEE/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
