@@ -3,7 +3,7 @@ package com.example.chapter4_object_oriented_high_level.test_02_binary_search;
 public class Main {
     public static void main(String[] args) {
         int[] arr = {1, 3, 4, 6, 7, 8, 10, 11, 13, 15};
-        int target = 9;
+        int target = 1;
         int a = binarySearch(arr, target);
         System.out.println(a);
     }
